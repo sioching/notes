@@ -5,4 +5,4 @@
 5. IBM SkillsBuild: https://skills.yourlearning.ibm.com/
 6. IBM CognitiveClass.AI: https://courses.cognitiveclass.ai/
 7. University of Helsinki - MOOC.FI: http://mooc.fi/
-8. 
+8. Databricks: https://customer-academy.databricks.com/learn/catalog
