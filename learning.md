@@ -6,3 +6,4 @@
 6. IBM CognitiveClass.AI: https://courses.cognitiveclass.ai/
 7. University of Helsinki - MOOC.FI: http://mooc.fi/
 8. Databricks: https://customer-academy.databricks.com/learn/catalog
+9. Santander Open Academy: https://www.santanderopenacademy.com
