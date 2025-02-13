@@ -16,3 +16,11 @@ https://www.youtube.com/watch?v=Vdm8oQT1c2c
 8) Turn yellow to the bottom/downside, use URU'R' to fix the yellow faces of the corner pieces, side faces may not be correct at the moment
 9) With top 2 layers correctly placed, bottom yellow face fixed (side faces of the yellow corner pieces in the bottom layer are not correct yet), use URU'R' x 3 to fix the remaining pieces
 
+Triangular:
+https://www.youtube.com/watch?v=pHBj8hixTfE
+1) Fix the bottom yellow layer, with all pieces correctly placed
+2) With 1 piece of the middle layer correct (faces needed to be correct), move it to face backward
+3) Use this algorithm: 
+   L down, R down, L up, R up, U', R up, U, R down
+4) now middle layer's edge pieces are correct
+5) pick any side, L up, U, L down, U, L up, U, L down .. to solve it
