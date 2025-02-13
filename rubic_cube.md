@@ -24,3 +24,11 @@ https://www.youtube.com/watch?v=pHBj8hixTfE
    L down, R down, L up, R up, U', R up, U, R down
 4) now middle layer's edge pieces are correct
 5) pick any side, L up, U, L down, U, L up, U, L down .. to solve it
+
+Axis:
+https://www.youtube.com/watch?v=p2hEAlMUmg4
+For a piece 180' flipped, put it to top middle, do RUR'U 5 times
+For two piece with 90' flipped, do
+M'U'M E M'UM E'
+where M' is moving the middle column up, M' is moving middle column down
+E is moving middle row right, E' is moving middle row left
