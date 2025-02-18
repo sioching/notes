@@ -27,8 +27,8 @@ https://www.youtube.com/watch?v=pHBj8hixTfE
 
 Axis:
 https://www.youtube.com/watch?v=p2hEAlMUmg4
-For a piece 180' flipped, put it to top middle, do RUR'U 5 times
-For two piece with 90' flipped, do
-M'U'M E M'UM E'
-where M' is moving the middle column up, M' is moving middle column down
+1) Fix the cube similar to a 3x3, ignoring the angles/directions of the corner pieces
+2) For a piece 180' flipped, put it to top middle, do RUR'U 5 times
+3) For two piece with 90' flipped, put it to F & L, then do M'U'M E M'UM E'
+where M' is moving the middle column up, M is moving middle column down
 E is moving middle row right, E' is moving middle row left
