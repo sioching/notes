@@ -27,6 +27,7 @@ https://x.com/JOBCORNER247/status/1884300888614781315?mx=2
 https://www.rnngroup.co.uk/working-with-us-for-everyone/
 https://www.rotherham.ac.uk/advancing-digital/
 https://fosdem.org/2025/
+https://huggingface.co/learn/agents-course/unit0/introduction?source=post_page-----966b7b33510a---------------------------------------
 
 
 
