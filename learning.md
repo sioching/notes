@@ -13,6 +13,7 @@ Google Exceed LMS: https://skillshop.exceedlms.com/student/collection/648915-bas
 
 Harvard CS50 - https://www.edx.org/cs50
 Hubspot - https://app-eu1.hubspot.com/academy/144895358/
+HuggingFace - https://huggingface.co/learn/nlp-course/chapter1/1
 
 IBM: https://www.ibm.com/training/
 IBM Quantum: https://learning.quantum.ibm.com/
