@@ -1,6 +1,7 @@
 20250522
 Testing RFID reading using RC522
 https://lastminuteengineers.com/how-rfid-works-rc522-arduino-tutorial/
+Data sheet: https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf
 
 Components:
 - RF RC522 reader
