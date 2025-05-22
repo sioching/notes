@@ -30,3 +30,7 @@ May the following the sample sketches to test, e.g.,
 - rfid_default_keys
 - rfid_read_personal_data
 etc
+
+MIFARE Classic 1k memory layout:
+16 sectors × 4 blocks × 16 bytes of data = 1024 bytes = 1K memory
+
