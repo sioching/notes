@@ -33,4 +33,6 @@ etc
 
 MIFARE Classic 1k memory layout:
 16 sectors × 4 blocks × 16 bytes of data = 1024 bytes = 1K memory
+- first block = manufacturer block
+- in each sector, last block (#3) = Sector Trailer, which are access bits to indicate read/write permissions
 
